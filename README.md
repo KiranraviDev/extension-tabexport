@@ -1,4 +1,4 @@
-# TabExport Pro - Usage Documentation
+# TabExport Pro - Readme Documentation
 
 ## Overview
 TabExport Pro is a lightweight browser extension that helps you quickly export your current browser tabs into useful file formats for saving, sharing, or documenting work.
