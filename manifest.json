@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "TabExport Pro",
+  "version": "1.0",
+  "description": "Instantly export your browser tabs to Markdown, CSV, or Text files. No cloud, no logins, no bloat.",
+  "permissions": [
+    "tabs"
+  ],
+  "icons": {
+    "16": "logo.png",
+    "48": "logo.png",
+    "128": "logo.png"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "logo.png",
+      "48": "logo.png",
+      "128": "logo.png"
+    }
+  }
+}
